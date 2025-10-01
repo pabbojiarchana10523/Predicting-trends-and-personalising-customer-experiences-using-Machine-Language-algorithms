@@ -1,0 +1,2 @@
+# Predicting-trends-and-personalising-customer-experiences-using-Machine-Language-algorithms
+This project focuses on a machine learning that predicts fashion trends using algorithms like SVM and Extra Trees Classifier. It analyzes sales data, pricing, stock levels, and social media insights to deliver accurate forecasts, optimize inventory, and enhance personalized customer experiences in the fashion industry.
