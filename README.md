@@ -35,12 +35,12 @@ By analyzing historical data, pricing, product popularity, and even **social med
 
 ## 📂 Project Structure
 
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks with analysis and model training
-├── src/ # Python scripts for data cleaning, feature engineering, etc.
-├── visuals/ # Power BI reports, charts, and plots
-├── presentation/ # Final PPT presentation
-└── README.md # Project documentation
+- ├── data/ # Raw and processed datasets
+- ├── notebooks/ # Jupyter notebooks with analysis and model training
+- ├── src/ # Python scripts for data cleaning, feature engineering, etc.
+- ├── visuals/ # reports, charts, and plots
+- ├── presentation/ # Final PPT presentation
+- └── README.md # Project documentation
 
 
 ---
